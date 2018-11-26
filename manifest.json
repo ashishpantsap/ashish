@@ -65,8 +65,7 @@
 "personalizationsearchsmartedit",
 "personalizationsearchweb",
 "personalizationsearchsamplesaddon",
-"pcmbackofficesamplesaddon",
-"yb2bacceleratorstorefront"
+"pcmbackofficesamplesaddon"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
    "storeFrontWebRoot": "/yacceleratorstorefront",
